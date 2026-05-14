@@ -1,0 +1,19 @@
+Category,Defect_Type,FID (↓),KID (↓),SSIM (↑)
+pcb1,bent,1.21,0.0356,0.2355
+pcb1,melt,0.98,0.0457,0.2179
+pcb1,missing,0.93,0.0554,0.2284
+pcb1,scratch,0.99,0.0485,0.2147
+pcb2,bent,1.42,0.0452,0.2625
+pcb2,melt,1.91,0.0478,0.2289
+pcb2,missing,1.53,0.0457,0.231
+pcb2,scratch,1.93,0.0639,0.2369
+pcb3,bent,1.02,0.0537,0.5597
+pcb3,melt,0.83,0.0482,0.5519
+pcb3,missing,1.05,0.0486,0.5516
+pcb3,scratch,1.22,0.0541,0.5417
+pcb4,burnt,0.85,0.0176,0.3592
+pcb4,damage,1.2,0.0196,0.388
+pcb4,extra,0.71,0.0139,0.365
+pcb4,missing,0.77,0.0842,0.3691
+pcb4,scratch,0.7,0.0398,0.3939
+pcb4,wrong_place,1.01,0.0248,0.3729
